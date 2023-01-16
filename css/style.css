@@ -12,10 +12,20 @@ header {
     bottom: 10%;
 }
 
+h1{
+    font-size: 60px;
+    margin:auto;
+}
+
 #date {
     color: #808080;
 }
 
 #booleaner{
     color: #20A9E5;
+}
+
+#didascalia {
+    font-size: 12px;
+    margin-top: 0%;
 }
