@@ -33,3 +33,23 @@ h1{
 ul{
     padding: 1%;
 }
+
+table{
+    border-collapse: collapse;
+
+}
+
+th, td{
+    padding: 10px;
+}
+
+thead {
+    background-color: #1FA5E0;
+    color: white;
+}
+
+.celeste{
+    background-color: #B0E4F1;
+}
+
+ 
