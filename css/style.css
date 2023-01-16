@@ -11,3 +11,11 @@ header {
     position: absolute;
     bottom: 10%;
 }
+
+#date {
+    color: #808080;
+}
+
+#booleaner{
+    color: #20A9E5;
+}
