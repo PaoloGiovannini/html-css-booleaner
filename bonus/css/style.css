@@ -1,0 +1,84 @@
+header { 
+    height: 200px;
+    background-color: #4EA0FF;
+    background-image: url("../img/pattern.png");
+    position: relative;
+}
+
+main, footer{
+width: 70%;
+margin: auto;
+}
+
+.logo{
+    width: 300px;
+    height: 100px;
+    position: absolute;
+    bottom: 10%;
+}
+
+h1{
+    font-size: 60px;
+    margin:auto;
+}
+
+.paragrafo {
+    color: #808080;
+}
+
+#booleaner{
+    color: #20A9E5;
+}
+
+#didascalia {
+    font-size: 12px;
+    margin-top: 0%;
+}
+
+ul{
+    padding: 1%;
+}
+
+table{
+    border-collapse: collapse;
+
+}
+
+th, td{
+    padding: 10px;
+}
+
+thead {
+    background-color: #1FA5E0;
+    color: white;
+}
+
+.celeste{
+    background-color: #B0E4F1;
+}
+
+.monitor{
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    position: relative;
+}
+
+.lorem1{
+    position: absolute;
+    margin: 10;
+    color: white;
+}
+
+.graph{
+    width: 311px;
+    height: 207px;
+    background-image: url(../img/graph.jpg);
+    position: relative;
+}
+
+.lorem2{
+    position: absolute;
+    margin: 10;
+    color: white;
+}
